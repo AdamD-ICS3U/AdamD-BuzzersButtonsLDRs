@@ -21,9 +21,9 @@ let LightLevel = 0
 let AlarmState = false
 AlarmState = false
 /**
- * Checkmark means searching
+ * Checkmark means scanning
  * 
- * Square means not searching
+ * Square means not scanning
  * 
  * X means alarm
  */
